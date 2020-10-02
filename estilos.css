@@ -1,0 +1,83 @@
+#contenido {
+     padding: 2cm;
+     width:50%;
+     margin:0 auto; 
+     border-radius: 5%;
+     border: solid 1px #2c4bfa;
+    } 
+
+
+#contactos h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: default;
+}
+
+#contactos p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12pt;
+}
+
+#contactos a{
+    font-family: Arial;
+    font-size: 12pt;
+    padding-left: 15pt;
+   
+}
+
+ #encabezado h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: black;
+}
+
+#datosPersonales{
+    position: relative;
+    margin-left: 50%;
+
+}
+
+#encabezado div table tr td:nth-child(1){
+    font-weight: bold;
+
+}
+
+#encabezado table{
+    font-size: 12pt;
+    font-family:  sans-serif
+}
+
+#descarga button{
+    color: gray;
+    border-radius: 5%;
+}
+
+#descarga a{
+    margin-left: 20px;
+    width:50%;
+    margin:0 auto; 
+    color: black;
+    border-radius: 30%;
+    padding: 2cm;
+}
+
+#sobreMi div p{
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+}
+
+#estudios h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: default;
+}
+
+#estudios p{
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+img{
+    position: absolute;
+    margin-left: 0%;
+}
